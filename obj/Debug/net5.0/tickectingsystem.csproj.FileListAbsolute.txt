@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\bin\Debug\net5.0\tickectingsystem.exe
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\bin\Debug\net5.0\tickectingsystem.deps.json
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\bin\Debug\net5.0\tickectingsystem.runtimeconfig.json
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\bin\Debug\net5.0\tickectingsystem.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\bin\Debug\net5.0\tickectingsystem.dll
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\bin\Debug\net5.0\ref\tickectingsystem.dll
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\bin\Debug\net5.0\tickectingsystem.pdb
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\obj\Debug\net5.0\tickectingsystem.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\obj\Debug\net5.0\tickectingsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\obj\Debug\net5.0\tickectingsystem.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\obj\Debug\net5.0\tickectingsystem.AssemblyInfo.cs
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\obj\Debug\net5.0\tickectingsystem.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\obj\Debug\net5.0\tickectingsystem.dll
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\obj\Debug\net5.0\ref\tickectingsystem.dll
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\obj\Debug\net5.0\tickectingsystem.pdb
+C:\Users\Owner\Desktop\dotNet DB\tickectingsystem\obj\Debug\net5.0\tickectingsystem.genruntimeconfig.cache
